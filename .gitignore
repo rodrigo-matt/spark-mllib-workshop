@@ -54,11 +54,14 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Macos
+.DS_Store
+
 # Jetbrains
 .idea/
 
 # Spark
-data
+data/instacart
 metastore_db
 spark-warehouse
 *.log
